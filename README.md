@@ -1,16 +1,5 @@
 <h1 align="center">Hello World👋!</h1> 
-<h3 align="center">Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for design and content creation.</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
-
-<h3>🧐 Some Things About Me</h3>
-
-- 💻 I make programming Content on [Instagram](https://www.instagram.com/code_station_/)
-- 🌱 I’m currently learning **DSA**
-- 💬 Ask me about **Web development**
-- 🏆 2023 Goal: Contribute more to Open Source Projects.
-- 📫 How to reach me **achalpardeshi159@gmail.com**
-- ⚡ Fun fact ** INTJ. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,10 +40,3 @@
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=26b2cvbtfsh5hbyp21n432hma&redirect=true)">
 <br>
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-  
-### If you appreciate resources please consider supporting me. Thank you!
-<a href="https://www.buymeacoffee.com/codestation" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-</div>
