@@ -9,5 +9,5 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 <div  align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=baohieu1910&" alt="duyanh711" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=baohieu1910&" alt="baohieu1910" /></p>
 </div>
