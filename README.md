@@ -1,4 +1,4 @@
-## Hello, I'm Bao Hieu 👋!  
+<h1 align="center">Hello, I'm Bao Hieu 👋!</h1>
 
 ## Languages and Tools  
 <div align="center">  
