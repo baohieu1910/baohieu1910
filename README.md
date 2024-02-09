@@ -2,7 +2,7 @@
 
 <br/>  
 <div  align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=baohieu1910&" alt="baohieu1910" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baohieu1910&theme=radical)](https://git.io/streak-stats)
 </div>
 <img align="right" width="400px" src="https://github.com/baohieu1910/baohieu1910/blob/main/code.gif">
 
