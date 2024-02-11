@@ -7,7 +7,6 @@
 <img align="right" width="400px" src="https://github.com/baohieu1910/baohieu1910/blob/main/code.gif">
 
 <h3>Connect with me</h3>
-
 <a href="https://github.com/baohieu1910" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
