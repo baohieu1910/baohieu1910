@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Bao Hieu 👋!</h1>
-<h3 align="center">A iOS Developer from Vietnam</h3> 
+<h3 align="center">A Software Engineer from Vietnam</h3> 
 
 <br/> 
 <div  align="center">
