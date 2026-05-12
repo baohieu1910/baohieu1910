@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Bao Hieu 👋!</h1>
+<!-- <h1 align="center">Hello, I'm Bao Hieu 👋!</h1>
 <h3 align="center">A Software Engineer from Vietnam</h3> 
 
 <br/> 
@@ -40,4 +40,4 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>  
-  
+   -->
